@@ -35,11 +35,6 @@
                 <em>Experiential appreciation as a pathway to meaning in life.</em>. Nature Human Behaviour, 6(5), 677–690.
                 <a href="https://doi.org/10.1038/s41562-021-01283-6" target="_blank" style="color: #5672f0;">[DOI]</a>
             </li>
-            <li>
-                <strong>Kim, J.</strong>, Chen, K., Davis, W. E., Hicks, J. A., & Schlegel, R. J. (2019). 
-                <em>Approaching the true-self: Promotion focus predicts the experience of authenticity</em>. Journal of Research in Personality, 78, 165–176. 
-                <a href="https://doi.org/10.1016/j.jrp.2018.12.001" target="_blank" style="color: #5672f0;">[DOI]</a>
-            </li>
         </ul>
     </div>
     </li> 
