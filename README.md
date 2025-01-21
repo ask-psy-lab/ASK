@@ -2,7 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6abbe,100:5672f0&height=240&text=ASK%20Laboratory&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
 <div style="text-align: center; margin-top: 20px;">
-    <h3 style="color: #282d33;"> 🔗 Useful Links </h3>
     <ul style="font-size: 14px; color: #282d33; list-style-type: none; padding: 0;">
         <li style="margin-bottom: 10px;">
             🎓 <a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank" style="color: #5672f0; text-decoration: none; font-weight: bold;">
