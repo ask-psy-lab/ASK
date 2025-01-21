@@ -31,9 +31,9 @@
         <h3 style="color: #282d33;"> 📚 Related Publications </h3>
         <ul style="font-size: 14px; color: #282d33; list-style-type: square; padding-left: 20px;">
             <li>
-                <strong>Kim, J.</strong>, Christy, A. G., Rivera, G. N., Hicks, J. A., & Schlegel, R. J. (2021). 
-                <em>Is the illusion of authenticity beneficial? Merely perceiving decisions as guided by the true self enhances decision satisfaction.</em>. Social Psychological and Personality Science, 12(1), 80–90.
-                <a href="https://doi.org/10.1177/1948550620903202" target="_blank" style="color: #5672f0;">[DOI]</a>
+                <strong>Kim, J.</strong>, Flanagan, P., Martela, F., Shanahan, C., Li, Z., Zhang, H., Eisenbeck, N., Carreno, D., Schlegel, R. J., & Hicks, J. A. (2022). 
+                <em>Experiential appreciation as a pathway to meaning in life.</em>. Nature Human Behaviour, 6(5), 677–690.
+                <a href="https://doi.org/10.1038/s41562-021-01283-6" target="_blank" style="color: #5672f0;">[DOI]</a>
             </li>
             <li>
                 <strong>Kim, J.</strong>, Chen, K., Davis, W. E., Hicks, J. A., & Schlegel, R. J. (2019). 
