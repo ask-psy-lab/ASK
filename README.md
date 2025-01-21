@@ -22,9 +22,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Latest Publication </h2>  
         <ul style="font-size: 14px; color: #282d33; list-style-type: square; padding-left: 20px;">
             <li>
-                <strong>Kim, J.</strong>, Flanagan, P., Martela, F., Shanahan, C., Li, Z., Zhang, H., Eisenbeck, N., Carreno, D., Schlegel, R. J., & Hicks, J. A. (2022). 
-                <em>Experiential appreciation as a pathway to meaning in life.</em>. Nature Human Behaviour, 6(5), 677–690.
-                <a href="https://doi.org/10.1038/s41562-021-01283-6" target="_blank" style="color: #5672f0;">[DOI]</a>
+                Hong, E. K., Kim, J., & Choi, I. (2025). 
+                <em>Mapping meaning and pleasure on the temporal horizon: Long-term orientation predicts preference for meaningful over pleasurable activities.</em>. European Journal of Social Psychology. Advance online publication.
+                <a href="https://doi.org/10.1002/ejsp.3142" target="_blank" style="color: #5672f0;">[DOI]</a>
+                <a href="https://doi.org/10.1002/ejsp.3142" target="_blank" style="color: #5672f0;">[Data Analysis]</a>
             </li>
         </ul>
     </div>
