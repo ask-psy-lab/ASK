@@ -18,11 +18,10 @@
                 <a href="https://doi.org/10.1177/1948550620903202" target="_blank" style="color: #5672f0;">[DOI]</a>
             </li>
             <li>
-                <strong>Author Name</strong>, Another Author, & Third Author (Year). 
-                <em>Another Paper Title</em>. Journal Name, Volume(Issue), Pages. 
-                <a href="https://doi.org/XXXX" target="_blank" style="color: #5672f0;">[DOI]</a>
+                <strong>Kim, J.</strong>, Chen, K., Davis, W. E., Hicks, J. A., & Schlegel, R. J. (2019). 
+                <em>Approaching the true-self: Promotion focus predicts the experience of authenticity</em>. Journal of Research in Personality, 78, 165–176. 
+                <a href="https://doi.org/10.1016/j.jrp.2018.12.001" target="_blank" style="color: #5672f0;">[DOI]</a>
             </li>
-            <!-- Add more publications here -->
         </ul>
     </div>
     </div> 
