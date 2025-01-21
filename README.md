@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6abbe,100:5672f0&height=240&text=ASK%20Laboratory&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6abbe,100:5672f0&height=240&text=ASK%20Laboratory&animation=fadeIn&fontColor=000000&fontSize=60&fontWeight=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to our lab! </h2>  
