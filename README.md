@@ -7,7 +7,25 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Our Missions 1: True Self and Authenticity </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> The goal of research on true self and authenticity is generally twofold. The first is to answer a fundamental question: “what is true self, and what is authenticity?” We refer this research effort to as an epistemological approach to understanding true self and authenticity. Research with the epistemological approach has discovered that true self is a core aspect of one’s identity, has a moral essence, and is positively biased; thus, authenticity is more likely to be experienced when one acts in accord with their core values/interests, morality, and positive self-aspects. The second goal is to understand what true self and authenticity do for us, which we refer to as an instrumental approach.  Research with this approach has revealed that people believe true self should be used as guide for making important life decisions to make satisfying decisions.</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> The goal of research on true self and authenticity is generally twofold. The first is to answer a fundamental question: “what is true self, and what is authenticity?” We refer this research effort to as an epistemological approach to understanding true self and authenticity. Research with the epistemological approach has discovered that true self is a core aspect of one’s identity, has a moral essence, and is positively biased; thus, authenticity is more likely to be experienced when one acts in accord with their core values/interests, morality, and positive self-aspects. The second goal is to understand what true self and authenticity do for us, which we refer to as an instrumental approach.  Research with this approach has revealed that people believe true self should be used as guide for making important life decisions to make satisfying decisions.
+    </li>
+<div style="text-align: left; margin-top: 20px;">
+        <h3 style="color: #282d33;"> 📚 Related Publications </h3>
+        <ul style="font-size: 14px; color: #282d33; list-style-type: square; padding-left: 20px;">
+            <li>
+                <strong>Author Name</strong>, Another Author, & Third Author (Year). 
+                <em>Title of the Paper</em>. Journal Name, Volume(Issue), Pages. 
+                <a href="https://doi.org/XXXX" target="_blank" style="color: #5672f0;">[DOI]</a>
+            </li>
+            <li>
+                <strong>Author Name</strong>, Another Author, & Third Author (Year). 
+                <em>Another Paper Title</em>. Journal Name, Volume(Issue), Pages. 
+                <a href="https://doi.org/XXXX" target="_blank" style="color: #5672f0;">[DOI]</a>
+            </li>
+            <!-- Add more publications here -->
+        </ul>
+    </div>
+    </div> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Our Missions 2: Existential Meaning and Sense-Making </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Whether we like it or not, we eventually face a fundamental question about our existence: What is the meaning of my life? Existentialism and evolutionary science both suggest that our life has no a priori meaning; instead, existential psychology highlights the importance of meaning in life, a subjective sense of feeling one’s life meaningful. Research on existential meaning has examined the sources of meaning and the conditions and psychological states under which people search for meaning. </li> </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Our Missions 3: Belief in Free Will and Sense of Hope </h2> 
