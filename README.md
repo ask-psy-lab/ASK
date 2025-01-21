@@ -26,7 +26,24 @@
     </div>
     </div> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Our Missions 2: Existential Meaning and Sense-Making </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Whether we like it or not, we eventually face a fundamental question about our existence: What is the meaning of my life? Existentialism and evolutionary science both suggest that our life has no a priori meaning; instead, existential psychology highlights the importance of meaning in life, a subjective sense of feeling one’s life meaningful. Research on existential meaning has examined the sources of meaning and the conditions and psychological states under which people search for meaning. </li> </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Whether we like it or not, we eventually face a fundamental question about our existence: What is the meaning of my life? Existentialism and evolutionary science both suggest that our life has no a priori meaning; instead, existential psychology highlights the importance of meaning in life, a subjective sense of feeling one’s life meaningful. Research on existential meaning has examined the sources of meaning and the conditions and psychological states under which people search for meaning. 
+        <div style="text-align: left; margin-top: 20px;">
+        <h3 style="color: #282d33;"> 📚 Related Publications </h3>
+        <ul style="font-size: 14px; color: #282d33; list-style-type: square; padding-left: 20px;">
+            <li>
+                <strong>Kim, J.</strong>, Christy, A. G., Rivera, G. N., Hicks, J. A., & Schlegel, R. J. (2021). 
+                <em>Is the illusion of authenticity beneficial? Merely perceiving decisions as guided by the true self enhances decision satisfaction.</em>. Social Psychological and Personality Science, 12(1), 80–90.
+                <a href="https://doi.org/10.1177/1948550620903202" target="_blank" style="color: #5672f0;">[DOI]</a>
+            </li>
+            <li>
+                <strong>Kim, J.</strong>, Chen, K., Davis, W. E., Hicks, J. A., & Schlegel, R. J. (2019). 
+                <em>Approaching the true-self: Promotion focus predicts the experience of authenticity</em>. Journal of Research in Personality, 78, 165–176. 
+                <a href="https://doi.org/10.1016/j.jrp.2018.12.001" target="_blank" style="color: #5672f0;">[DOI]</a>
+            </li>
+        </ul>
+    </div>
+    </li> 
+    </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Our Missions 3: Belief in Free Will and Sense of Hope </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Do we have free will? Ontologically, the answer could be yes or no. Psychologically, however, it is more important to believe that we have free will. Research has discovered that endorsing a belief in free will is phenomenologically more natural and also has a moral-regulatory function. </li> </div>
     </div>
