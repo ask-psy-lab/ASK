@@ -25,7 +25,7 @@
                 Hong, E. K., Kim, J., & Choi, I. (2025). 
                 <em>Mapping meaning and pleasure on the temporal horizon: Long-term orientation predicts preference for meaningful over pleasurable activities.</em>. European Journal of Social Psychology. Advance online publication.
                 <a href="https://doi.org/10.1002/ejsp.3142" target="_blank" style="color: #5672f0;">[DOI]</a>
-                <a href="https://doi.org/10.1002/ejsp.3142" target="_blank" style="color: #5672f0;">[Data Analysis]</a>
+                <a href="https://doi.org/10.1002/ejsp.3142" target="_blank" style="color: #5672f0;">[Data Analysis Link]</a>
             </li>
         </ul>
     </div>
