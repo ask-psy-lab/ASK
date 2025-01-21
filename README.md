@@ -1,19 +1,19 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6abbe,100:5672f0&height=240&text=ASK%20Laboratory&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
-    <div style="text-align: left; margin-top: 20px;">
-        <h3 style="color: #282d33;"> 🔗 Useful Links </h3>
-        <ul style="font-size: 14px; color: #282d33; list-style-type: none; padding-left: 0;">
-            <li>
-                🌐 <a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank" style="color: #5672f0; text-decoration: none;">
-                Professor's Google Scholar Profile</a>
-            </li>
-            <li>
-                🌐 <a href="https://www.example-lab-website.com" target="_blank" style="color: #5672f0; text-decoration: none;">
-                Research Lab Website</a>
-            </li>
-        </ul>
-    </div>
+<div style="text-align: center; margin-top: 20px;">
+    <h3 style="color: #282d33;"> 🔗 Useful Links </h3>
+    <ul style="font-size: 14px; color: #282d33; list-style-type: none; padding: 0;">
+        <li style="margin-bottom: 10px;">
+            🎓 <a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank" style="color: #5672f0; text-decoration: none; font-weight: bold;">
+            Professor's Google Scholar Profile</a>
+        </li>
+        <li>
+            🖥️ <a href="https://www.example-lab-website.com" target="_blank" style="color: #5672f0; text-decoration: none; font-weight: bold;">
+            Research Lab Website</a>
+        </li>
+    </ul>
+</div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to our lab! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> We are ASK lab, and, as it stands for, we study authenticity and self knowledge along with other related psychological constructs such as true self, existential meaning, free will, and hope. If you want to know more about what we do, please see our research topics and publications. If you are interested in joining our lab, please do not hesitate to contact anyone of us. Thanks!</li> </div> 
