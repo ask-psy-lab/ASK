@@ -5,6 +5,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to our lab! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> We are ASK lab, and, as it stands for, we study authenticity and self knowledge along with other related psychological constructs such as true self, existential meaning, free will, and hope. If you want to know more about what we do, please see our research topics and publications. If you are interested in joining our lab, please do not hesitate to contact anyone of us. Thanks!</li> </div> 
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to our lab! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> We are ASK lab, and, as it stands for, we study authenticity and self knowledge along with other related psychological constructs such as true self, existential meaning, free will, and hope. If you want to know more about what we do, please see our research topics and publications. If you are interested in joining our lab, please do not hesitate to contact anyone of us. Thanks!</li> </div> 
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
