@@ -46,7 +46,7 @@ If you're interested in our research or joining the lab, feel free to contact us
 ---
 
 ## 🛠️ Tech Stacks
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white" />
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
@@ -56,9 +56,9 @@ If you're interested in our research or joining the lab, feel free to contact us
 
 ## ✉️ Contact
 We are recruiting graduate students!  
-If interested, please contact Professor Jinhyung Kim via email:  <a href=mailto:jinhyung@sogang.ac.kr​><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
-
-
+If interested, please contact Professor Jinhyung Kim via email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jinhyung@sogang.ac.kr" target="_blank" style="margin-left: 10px;"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+    </a>
+</div>
 
 
 ---
