@@ -2,7 +2,6 @@
     <img src="https://github.com/ASK-psychology-Lab/ASK/blob/main/assets/header%20img.jpg?raw=true" 
          alt="ASK Lab Header" 
          style="width: 95%; max-width: 1200px; border-radius: 10px;" />
-    <h1 style="margin-top: -10px; font-size: 24px; color: #000;">ASK Lab</h1>
 
 </div>
 
