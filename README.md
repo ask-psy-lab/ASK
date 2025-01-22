@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6abbe,100:5672f0&height=240&text=ASK%20Laboratory&animation=fadeIn&fontColor=000000&fontSize=60" />
-    </div>
+    <img src="https://github.com/ASK-psychology-Lab/-assets/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-01-21%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.32.13.png?raw=true" alt="ASK Lab Header" />
+</div>
+
 <div style="text-align: center; margin-top: 20px;">
     <h3 style="color: #282d33;"> 🔗 Useful Links </h3>
     <ul style="font-size: 14px; color: #282d33; list-style-type: none; padding: 0;">
