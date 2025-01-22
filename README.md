@@ -2,16 +2,20 @@
     <img src="https://github.com/ASK-psychology-Lab/ASK/blob/main/assets/header%20img.jpg?raw=true" 
          alt="ASK Lab Header" 
          style="width: 95%; max-width: 1200px; border-radius: 10px;" />
-
 </div>
-
 
 ---
 
 ## 🔗 Useful Links
 <div align="left">
-    <a href="https://scholar.google.com/citations?user=U1hHHH8AAAAJ&hl=en&oi=sra" target="_blank"><strong>🎓 Professor's Google Scholar Profile</strong></a> •
-    <a href="https://www.askpsylab.com" target="_blank"><strong>🖥️ Lab Website</strong></a>
+    <a href="https://scholar.google.com/citations?user=U1hHHH8AAAAJ&hl=en&oi=sra" target="_blank" 
+       style="text-decoration: none; display: inline-block; background-color: #5672f0; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">
+        🎓 Professor's Google Scholar Profile
+    </a>
+    <a href="https://www.askpsylab.com" target="_blank" 
+       style="text-decoration: none; display: inline-block; background-color: #5672f0; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px; margin-left: 10px;">
+        🖥️ Lab Website
+    </a>
 </div>
 
 ---
@@ -57,9 +61,13 @@ If you're interested in our research or joining the lab, feel free to contact us
 ---
 
 ## ✉️ Contact
-We are recruiting graduate students!  
-If interested, please contact Professor Jinhyung Kim via email:  
-<a href=mailto:askpsylab@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
+<div style="display: flex; align-items: center;">
+    <p style="margin: 0; font-size: 14px;">We are recruiting graduate students!  
+    If interested, please contact Professor Jinhyung Kim via email:</p>
+    <a href="mailto:askpsylab@gmail.com" style="margin-left: 10px;">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+    </a>
+</div>
 
 ---
 
