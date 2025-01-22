@@ -17,8 +17,7 @@
 ---
 
 ## 👋 Welcome to ASK Lab!
-ASK Lab focuses on studying psychological constructs such as authenticity, self-knowledge, true self, existential meaning, free will, and hope.  
-We aim to answer the following questions:
+ASK Lab focuses on studying psychological constructs such as authenticity, self-knowledge, true self, existential meaning, free will, and hope. We aim to answer the following questions:
 - What defines the true self and authenticity?
 - How does the belief in free will and a sense of meaning impact human behavior?
 
