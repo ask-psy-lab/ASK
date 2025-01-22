@@ -3,7 +3,7 @@
          alt="ASK Lab Header" 
          style="width: 95%; max-width: 1200px; border-radius: 10px;" />
     <h1 style="margin-top: -10px; font-size: 24px; color: #000;">ASK Lab</h1>
-    <p style="font-size: 16px; color: #555;">Authenticity and Self-Knowledge Laboratory</p>
+
 </div>
 
 
