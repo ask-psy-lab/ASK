@@ -1,13 +1,23 @@
 <div align="center">
     <img src="https://github.com/ASK-psychology-Lab/ASK/blob/main/assets/header%20img.jpg?raw=true" alt="ASK Lab Header" style="width: 80%; border-radius: 10px;" />
+    <h1 style="margin-top: -10px; font-size: 24px; color: #000;">ASK Lab</h1>
+    <p style="font-size: 16px; color: #555;">Authenticity and Self-Knowledge Laboratory</p>
 </div>
 
 ---
 
 ## 🔗 Useful Links
 <div align="center">
-    <a href="https://scholar.google.com/citations?user=U1hHHH8AAAAJ&hl=en&oi=sra" target="_blank"><strong>🎓 Professor's Google Scholar Profile</strong></a> •
-    <a href="https://www.askpsylab.com" target="_blank"><strong>🖥️ Lab Website</strong></a>
+    <a href="https://scholar.google.com/citations?user=U1hHHH8AAAAJ&hl=en&oi=sra" target="_blank" style="text-decoration: none;">
+        <button style="background-color: #5672f0; color: white; border: none; padding: 10px 20px; font-size: 14px; cursor: pointer; border-radius: 5px;">
+            🎓 Professor's Google Scholar Profile
+        </button>
+    </a>
+    <a href="https://www.askpsylab.com" target="_blank" style="text-decoration: none;">
+        <button style="background-color: #5672f0; color: white; border: none; padding: 10px 20px; font-size: 14px; cursor: pointer; border-radius: 5px; margin-left: 10px;">
+            🖥️ Lab Website
+        </button>
+    </a>
 </div>
 
 ---
