@@ -28,8 +28,7 @@ If you're interested in our research or joining the lab, feel free to contact us
 
 ## 📚 Latest Publications
 - **Hong, E. K., Kim, J., & Choi, I. (2025).**  
-  *Mapping meaning and pleasure on the temporal horizon: Long-term orientation predicts preference for meaningful over pleasurable activities.*  
-  *European Journal of Social Psychology.*  
+  *Mapping meaning and pleasure on the temporal horizon: Long-term orientation predicts preference for meaningful over pleasurable activities. European Journal of Social Psychology.*  
   [Read Paper](https://doi.org/10.1002/ejsp.3142) | [Data Analysis](https://doi.org/10.1002/ejsp.3142)
 
 ---
@@ -58,8 +57,7 @@ If you're interested in our research or joining the lab, feel free to contact us
 
 ## ✉️ Contact
 We are recruiting graduate students!  
-If interested, please contact Professor Jinhyung Kim via email:  </p>
-    <a href="mailto:askpsylab@gmail.com" style="margin-left: 10px;">
+If interested, please contact Professor Jinhyung Kim via email:<a href="mailto:askpsylab@gmail.com" style="margin-left: 10px;">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 
 
