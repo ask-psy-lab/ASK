@@ -56,8 +56,11 @@ If you're interested in our research or joining the lab, feel free to contact us
 
 ## ✉️ Contact
 We are recruiting graduate students!  
-If interested, please contact Professor Jinhyung Kim via email: <a href="mailto:askpsylab@gmail.com" style="margin-left: 10px;">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+If interested, please contact Professor Jinhyung Kim via email:</p>
+<a href="mailto:jinhyung@sogang.ac.kr​" style="margin-left: 10px;">
+       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+    </a>
+
 
 
 ---
