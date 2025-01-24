@@ -23,6 +23,7 @@ johnson_neyman(model, pred = X, modx = Z, alpha = 0.05)
 #J-N 기법의 결과를 시각화하려면 plot_model() 함수를 사용할 수 있습니다.
 
 # Johnson-Neyman 분석 결과 시각화
+install.packages("sjPlot")
 plot_model(model, type = "int", pred = "X", modx = "Z")
 
   #결론
