@@ -43,8 +43,7 @@ R script implementing the Johnson-Neyman technique to analyze interaction effect
 ---
 
 ### **2. fig3_code_uncertainty.R**
-![Fig. 3: Sample Size and Uncertainty](https://github.com/ask-psy-lab/ASK/blob/main/Image/McCabe%20et%20al%202018%20fig3.png?raw=true)
-
+<img src="https://github.com/ask-psy-lab/ASK/blob/main/Image/McCabe%20et%20al%202018%20fig3.png?raw=true" alt="Fig. 3: Sample Size and Uncertainty" width="600"/>
 
 Script for generating **Figure 3** in the paper, which visualizes the impact of sample size (150 vs. 500) on the **uncertainty** of simple slope estimates.
 
