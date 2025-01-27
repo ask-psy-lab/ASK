@@ -1,20 +1,57 @@
-McCabe, C. J., Kim, D. S., & King, K. M. (2018). Improving present practices in the visual display of interactions. 
-Advances in Methods and Practices in Psychological Science, 1(2), 147-165.
+# Visualizing Interaction Effects: Resources and Code
 
-1. 연구의 배경
-상호작용 가설은 심리학 연구에서 일반적으로 사용되며, 특정 효과가 그룹(예: 성별, 인종) 간에 또는 환경적 및 개인적 차이에 따라 어떻게 달라지는지 탐구합니다.
-기존에는 단순 기울기 분석(simple slopes)과 Johnson-Neyman(J-N) 기법이 널리 사용되었으나, 시각화의 정확성과 통계적 추론이 부족한 경우가 많았습니다.
-2. 문제점
-기존의 상호작용 효과 플롯은 다음과 같은 제한점을 가집니다:
-불확실성 표시 부족: 그래프에 통계적 불확실성을 나타내는 영역이 거의 표시되지 않음.
-관찰 데이터의 부재: 데이터의 실제 분포를 보여주지 않아 모델의 적합성을 평가하기 어려움.
-해석의 어려움: 단순 기울기나 교차점(crossover point)을 시각적으로 명확히 보여주지 못함.
-3. 새로운 접근법 제안
-interActive 애플리케이션: 연구팀은 R과 Shiny 프레임워크를 사용해 상호작용 시각화를 개선한 오픈소스 소프트웨어를 개발했습니다.
-기능:
-단순 기울기 분석 및 J-N 기법 지원.
-그래프에 관찰 데이터를 포함하고 불확실성을 시각적으로 표시.
-소규모 멀티플 플롯(small multiples)을 통해 상호작용 패턴을 명확히 표현.
-그래픽 설계 원칙:
-시각적 정확성과 통계적 투명성을 모두 충족.
-데이터의 분포와 불확실성을 그래프에 통합.
+This repository provides resources and code associated with the paper:
+
+**McCabe, C. J., Kim, D. S., & King, K. M. (2018).**  
+*Improving present practices in the visual display of interactions.*  
+**Advances in Methods and Practices in Psychological Science, 1(2), 147–165.**  
+
+
+---
+
+## Background
+Interaction hypotheses are widely used in psychological research to examine how effects differ across groups (e.g., gender, race) or how environmental and individual differences modify outcomes. Traditionally, researchers have relied on methods like **simple slopes analysis** and the **Johnson-Neyman (J-N) technique**. However, these approaches often lack **statistical transparency** and **visual clarity**, leading to challenges in interpretation.
+
+---
+
+## Limitations of Traditional Methods
+- **Uncertainty Representation**: Most visualizations fail to depict confidence intervals, limiting their statistical rigor.
+- **Lack of Observed Data**: Interaction plots rarely display underlying data distributions, hindering model evaluation.
+- **Interpretation Challenges**: Key features such as crossover points are difficult to discern from standard plots.
+
+---
+
+## Proposed Solution: interActive Application
+The authors developed the **interActive** application using **R** and **Shiny**, an open-source tool to enhance interaction effect visualization.
+
+### Key Features:
+- Supports **simple slopes analysis** and the **J-N technique**.
+- Visualizes observed data and statistical uncertainty.
+- Introduces **small multiples** for clear depiction of interaction patterns.
+
+### Design Principles:
+- Ensure **visual precision** and **statistical transparency**.
+- Integrate data distributions and uncertainty measures in visualizations.
+
+---
+
+## Code Overview
+
+### **1. johnson_neyman.R**
+R script implementing the Johnson-Neyman technique to analyze interaction effects across a range of moderator values.
+
+---
+
+### **2. fig3_code_uncertainty.R**
+![Fig. 3: Sample Size and Uncertainty](https://github.com/ask-psy-lab/ASK/blob/main/Image/McCabe%20et%20al%202018%20fig3.png?raw=true)
+
+
+Script for generating **Figure 3** in the paper, which visualizes the impact of sample size (150 vs. 500) on the **uncertainty** of simple slope estimates.
+
+#### Associated Data:
+- `figure3_uncertainty_plotestimates_n150.csv`: Simulated data for sample size \( N = 150 \).
+- `figure3_uncertainty_plotestimates_n500.csv`: Simulated data for sample size \( N = 500 \).
+
+#### Key Visualization Features:
+- **Confidence Intervals**: Shaded regions around predicted slopes for \( N = 150 \) and \( N = 500 \).
+- **Comparison**: Highlights narrower confidence intervals with larger sample sizes.
