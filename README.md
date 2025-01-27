@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/ask-psy-lab/ASK/blob/main/assets/header%20img.jpg?raw=true" 
+    <img src="[https://github.com/ask-psy-lab/ASK/blob/main/assets/header%20img.jpg?raw=true](https://github.com/ask-psy-lab/ASK/blob/main/Image/header%20img.jpg?raw=true)" 
          alt="ASK Lab Header" 
          style="width: 95%; max-width: 1200px; border-radius: 10px;" />
 
